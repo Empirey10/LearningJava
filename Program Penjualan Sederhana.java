@@ -6,7 +6,7 @@
     Scanner input = new Scanner(System.in);
        int dataA, dataB, dataC, dataD, dataE, choice, result= 0;
       
-     System.out.println("Program Kalkulator Sederhana");
+     System.out.println("Program penjualan Sederhana");
      System.out.println("1. Penjumlahan");
      System.out.println("2. Pengurangan");
      System.out.println("3. Pembagian");
